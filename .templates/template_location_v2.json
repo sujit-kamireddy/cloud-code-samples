@@ -1,6 +1,6 @@
 [
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "python/python-hello-world",
     "templatePath": "hello-world",
     "templateName": "Python (Flask): Hello World",
@@ -8,7 +8,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "python/python-guestbook",
     "templatePath": "guestbook",
     "templateName": "Python (Flask): Guestbook",
@@ -16,7 +16,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "python/cloud-run-python-hello-world",
     "templatePath": "hello-world",
     "templateName": "Python (Flask): Cloud Run",
@@ -24,7 +24,7 @@
     "runPlatforms": ["cloudrun"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "python/django/python-hello-world",
     "templatePath": "hello-world",
     "templateName": "Python (Django): Hello World",
@@ -32,7 +32,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "python/django/python-guestbook",
     "templatePath": "guestbook",
     "templateName": "Python (Django): Guestbook",
@@ -40,7 +40,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "python/cloud-run-django-hello-world",
     "templatePath": "hello-world",
     "templateName": "Python (Django): Cloud Run",
@@ -48,7 +48,7 @@
     "runPlatforms": ["cloudrun"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "golang/go-hello-world",
     "templatePath": "hello-world",
     "templateName": "Go: Hello World",
@@ -56,7 +56,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "golang/go-cloud-run-hello-world",
     "templatePath": "hello-world",
     "templateName": "Go: Cloud Run",
@@ -64,7 +64,7 @@
     "templateLanguages": ["go"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "golang/go-guestbook",
     "templatePath": "guestbook",
     "templateName": "Go: Guestbook",
@@ -72,7 +72,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "nodejs/nodejs-hello-world",
     "templatePath": "hello-world",
     "templateName": "Node.js: Hello World",
@@ -80,7 +80,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "nodejs/nodejs-cloud-run-hello-world",
     "templatePath": "hello-world",
     "templateName": "Node.js: Cloud Run",
@@ -88,7 +88,7 @@
     "templateLanguages": ["nodejs"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "nodejs/nodejs-guestbook",
     "templatePath": "guestbook",
     "templateName": "Node.js: Guestbook",
@@ -96,7 +96,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "java/java-hello-world",
     "templatePath": "hello-world",
     "templateName": "Java: Hello World",
@@ -104,7 +104,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "java/java-cloud-run-hello-world",
     "templatePath": "hello-world",
     "templateName": "Java: Cloud Run",
@@ -112,7 +112,7 @@
     "runPlatforms": ["cloudrun"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "java/java-guestbook",
     "templatePath": "guestbook",
     "templateName": "Java: Guestbook",
@@ -120,7 +120,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "dotnet/dotnet-hello-world",
     "templatePath": "hello-world",
     "templateName": ".NET: Hello World",
@@ -128,7 +128,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "dotnet/dotnet-guestbook",
     "templatePath": "guestbook",
     "templateName": ".NET: Guestbook",
@@ -136,7 +136,7 @@
     "runPlatforms": ["kubernetes"]
   },
   {
-    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples/tree/renameConfigNameToDefaultConfig",
+    "repoPath": "https://github.com/sujit-kamireddy/cloud-code-samples",
     "directoryPath": "dotnet/dotnet-cloud-run-hello-world",
     "templatePath": "hello-world",
     "templateName": ".NET: Cloud Run",
